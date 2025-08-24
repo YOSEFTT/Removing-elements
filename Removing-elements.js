@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         הסרת הודעות + כפתור חץ למעלה מותאם ל-headercontent (שואל בכל טעינה, תמונות רק ב-ui-widget/לפני cattab)
+// @name         הסרת אלמנטים מיותרים מאתר המכירה לקהילה שלך
 // @namespace    http://tampermonkey.net/
 // @version      1.7
 // @description  מסיר הודעות עם fade-out, מוסיף כפתור לקפיצה למעלה. שואל בכל טעינה. תמונות יוסרו רק אם בתוך .ui-widget או לפני #cattab.
