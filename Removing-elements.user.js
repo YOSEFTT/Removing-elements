@@ -6,6 +6,9 @@
 // @match        https://www.sales.org.il/sale.aspx*
 // @icon         https://www.sales.org.il/images/nlogo.jpg
 // @grant        GM_addStyle
+// @downloadURL  https://github.com/YOSEFTT/Removing-elements/raw/main/Removing-elements.user.js
+// @updateURL    https://github.com/YOSEFTT/Removing-elements/raw/main/Removing-elements.user.js
+                             
 // ==/UserScript==
 
 (function() {
