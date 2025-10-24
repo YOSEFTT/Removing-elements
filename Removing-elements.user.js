@@ -4,6 +4,7 @@
 // @version      1.7
 // @description  מסיר הודעות עם fade-out, מוסיף כפתור לקפיצה למעלה. שואל בכל טעינה. תמונות יוסרו רק אם בתוך .ui-widget או לפני #cattab.
 // @match        https://www.sales.org.il/sale.aspx*
+// @icon         https://www.sales.org.il/images/nlogo.jpg
 // @grant        GM_addStyle
 // ==/UserScript==
 
